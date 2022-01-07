@@ -1,0 +1,13 @@
+{
+  "name": "min-mater",
+  "version": "1.0.0",
+  "description": "",
+  "main": "min-mater.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "https://github.com/robbieyng",
+  "license": "MIT",
+  "dependencies": {
+    "node-notifier": "^10.0.0"
+  }
+}
